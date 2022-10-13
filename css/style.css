@@ -514,7 +514,7 @@ button {
 
 .about_img {
      margin-right: 40px;
-     border: 1px solid red;
+     align-items: center;
      height: 100%;
      overflow: hidden;
 }
